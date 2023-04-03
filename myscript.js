@@ -1,1 +1,3 @@
-console.log("Hi browser :D");
+// declaring and initializing
+var a = 3;
+console.log(a);
